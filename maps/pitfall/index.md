@@ -8,7 +8,7 @@ download: https://cdn.discordapp.com/attachments/143498200928616448/351292272563
 Pitfall is a challenging jump puzzle map. It requires knowledge of some basic Rabi-Ribi platforming tricks (explained below). However, more advanced stuff (e.g. amulet climbs) is not required, and so this map should still be (relatively) accessible.
 
 How to play:
-- Replace area0.map, and start a new game on Speedrun mode, NORMAL difficulty
+- Replace area0.map in `Rabi-Ribi\data\area`, and start a new game on Speedrun mode, Standard, NORMAL difficulty
 
 Objective:
 - Obtain Gold Carrot and Congratulations! trophy

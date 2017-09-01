@@ -21,10 +21,11 @@
           <a href="https://wcko87.github.io/rabi-ribi-maps/"><h1>{{ site.title | default: site.github.repository_name }}</h1></a>
           <h2>{{ site.description | default: site.github.project_tagline }}</h2>
         </header>
+        <hr>
         <section id="downloads" class="clearfix">
           {% if page.mapname %}
           <h1>{{ page.mapname }}</h1>
-          <h3>Made by {{ page.author }}</h3>
+          <h4>Made by {{ page.author }}</h4>
           <a href="{{ page.download }}" id="download-map" class="button"><span>Download Map</span></a>
           {% endif %}
           <!--

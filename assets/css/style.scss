@@ -3,4 +3,4 @@
 
 @import "{{ site.theme }}";
 
-download-map span{background:transparent 12px 50% no-repeat}
+#download-map span{background:transparent 12px 50% no-repeat;padding-left:0px;text-align:center}

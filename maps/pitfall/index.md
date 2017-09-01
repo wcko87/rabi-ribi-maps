@@ -4,7 +4,7 @@
 
 [**Download**](https://cdn.discordapp.com/attachments/143498200928616448/351292272563716107/rbrbmap_pitfall_v1_1.zip)
 
-## Description
+# Description
 
 Pitfall is a challenging jump puzzle map. It requires knowledge of some basic Rabi-Ribi platforming tricks (explained below). However, more advanced stuff (e.g. amulet climbs) is not required, and so this map should still be (relatively) accessible.
 
@@ -30,7 +30,7 @@ What you don't need to (and shouldn't) use:
 Additional notes:
 - Don't waste time on the death animation! Skip it like a cutscene.
 
-## Screenshots
+# Screenshots
 
 ![map_pitfall_1](https://user-images.githubusercontent.com/27341392/29963765-977e431c-8f3a-11e7-976c-14e6ac804387.png)
 
@@ -42,7 +42,7 @@ Additional notes:
 
 ![map_pitfall_5](https://user-images.githubusercontent.com/27341392/29963769-97bedd50-8f3a-11e7-891c-166d94920f3c.png)
 
-## Leaderboard
+# Leaderboard
 
 Rules:
 * Obtain Gold Carrot, then the Congratulations! trophy.

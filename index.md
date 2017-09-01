@@ -1,5 +1,7 @@
 # Maps
 
+Custom Rabi-Ribi maps are listed below.
+
 ## [Pitfall](maps/pitfall/)
 
 * by wcko87

@@ -1,13 +1,8 @@
 ---
-testtest: Testing
-title: Pitfall
+mapname: Pitfall
+author: wcko87
+download: https://cdn.discordapp.com/attachments/143498200928616448/351292272563716107/rbrbmap_pitfall_v1_1.zip
 ---
-# Pitfall
-
-##### Made by wcko87
-
-[**Download**](https://cdn.discordapp.com/attachments/143498200928616448/351292272563716107/rbrbmap_pitfall_v1_1.zip)
-
 # Description
 
 Pitfall is a challenging jump puzzle map. It requires knowledge of some basic Rabi-Ribi platforming tricks (explained below). However, more advanced stuff (e.g. amulet climbs) is not required, and so this map should still be (relatively) accessible.

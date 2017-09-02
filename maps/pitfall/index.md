@@ -41,6 +41,12 @@ Additional notes:
 
 ![map_pitfall_5](https://user-images.githubusercontent.com/27341392/29963769-97bedd50-8f3a-11e7-891c-166d94920f3c.png)
 
+# Videos
+
+* [Speedrun by wcko87](https://www.youtube.com/watch?v=uWkw2aaWK30)
+* [Blind Race - MikansBox](https://www.twitch.tv/videos/170137590)
+* [Blind Race - Cosmoing](https://youtu.be/_2Yd4Ab2cHI)
+
 # Leaderboard
 
 Rules:

@@ -8,6 +8,8 @@ The map editor will be put up publicly at some point in the future. For for now,
 
 If you have a custom map, send it to me and I'll list it here.
 
+Some custom maps also have speedrunning leaderboards. You can also submit runs to me (with video) and I'll add it to the leaderboard. Please try to overlay a timer over the video if you do a run.
+
 # Maps
 
 Custom Rabi-Ribi maps are listed below.

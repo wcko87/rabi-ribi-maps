@@ -1,10 +1,10 @@
 # Rabi-Ribi Map Editor
 
+#### See: [How to make your own Rabi-Ribi Maps](https://wcko87.github.io/rabiribi-map-editing/)
+
 The Rabi-Ribi map editor comes from the [Rabi-Ribi Speedrunning Community](http://www.speedrun.com/rabiribi).
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://discord.gg/dDfpNAr"><img src="https://discordapp.com/assets/f8389ca1a741a115313bede9ac02e2c0.svg" height="20" />Rabi-Ribi Speedrunning Discord</a>
-
-#### [How to make your own Rabi-Ribi Maps](https://wcko87.github.io/rabiribi-map-editing/)
 
 If you have a custom map, send it to me and I'll list it here.
 

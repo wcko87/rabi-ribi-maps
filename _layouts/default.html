@@ -9,8 +9,13 @@
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
-
-{% seo %}
+    {% if page.mapname %}
+    <title>{{ page.mapname }} - Rabi-Ribi Custom Maps</title>
+    {% else %}
+    <title>Rabi-Ribi Custom Maps</title>
+    {% endif %}
+    
+{% seo title=false %}
   </head>
 
   <body>

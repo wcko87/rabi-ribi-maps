@@ -1,4 +1,4 @@
-# Rabi-Ribi Map Editor
+# Rabi-Ribi Maps
 
 #### See: [How to make your own Rabi-Ribi Maps](https://wcko87.github.io/rabiribi-map-editing/)
 
@@ -10,7 +10,7 @@ If you have a custom map, send it to me and I'll list it here.
 
 Some custom maps also have speedrunning leaderboards. You can also send runs to me or post it on the speedrunning discord (with video) and I'll add it to the leaderboard. Please try to overlay a timer over the video if you do a run.
 
-# Maps
+# Map List
 
 Custom Rabi-Ribi maps are listed below.
 

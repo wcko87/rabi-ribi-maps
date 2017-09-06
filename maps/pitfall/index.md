@@ -1,7 +1,7 @@
 ---
 mapname: Pitfall
 author: wcko87
-download: https://cdn.discordapp.com/attachments/300989054047223809/354962211493511178/rbrbmap_pitfall_v1_1.zip
+download: https://github.com/wcko87/rabi-ribi-maps/files/1281288/rbrbmap_pitfall_v1_1.zip
 ---
 # Description
 

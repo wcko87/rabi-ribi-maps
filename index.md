@@ -16,9 +16,7 @@ There are two methods.
 ### Method 1: Version 1.8e
 The [1.8e beta version](https://steamcommunity.com/app/400910/discussions/0/1473095965300641483/) includes special features specifically to support Rabi-Ribi custom maps.
 1. Add the custom map files to `Rabi-Ribi\custom\<mapname>`. (each custom map should be in its own folder)
-2. After starting Rabi-Ribi, press F5 or F6 to open up the custom maps menu. Select the custom map and 
-
-![](https://user-images.githubusercontent.com/27341392/30108930-ee520480-9336-11e7-9a82-bf40ca1ae89e.png)
+2. After starting Rabi-Ribi, press F5 or F6 to open up the [custom maps menu](https://user-images.githubusercontent.com/27341392/30108930-ee520480-9336-11e7-9a82-bf40ca1ae89e.png). Select the custom map and start a new game. 
 
 ### Method 2: Replacing maps
 This was the original method before the 1.8e beta started supprting custom maps.

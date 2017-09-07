@@ -1,4 +1,4 @@
-# Rabi-Ribi Maps
+# Rabi-Ribi Custom Maps
 
 #### See: [How to make your own Rabi-Ribi Maps](https://wcko87.github.io/rabiribi-map-editing/)
 

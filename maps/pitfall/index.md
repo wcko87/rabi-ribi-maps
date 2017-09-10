@@ -58,4 +58,5 @@ Rules:
 #### Ranking:
 
 1. [**Cosmoing - RTA 5m 42s**](https://www.youtube.com/watch?v=3aqMim0N6-8)
+2. [**wcko87 - RTA 5m 50s**](https://www.youtube.com/watch?v=Lblgq3RbQD4)
 

@@ -43,7 +43,7 @@ Additional notes:
 
 # Videos
 
-* [Speedrun by wcko87](https://www.youtube.com/watch?v=uWkw2aaWK30)
+* [Playthrough by wcko87](https://www.youtube.com/watch?v=uWkw2aaWK30)
 * [Blind Race - MikansBox](https://www.twitch.tv/videos/170137590)
 * [Blind Race - Cosmoing](https://youtu.be/_2Yd4Ab2cHI)
 

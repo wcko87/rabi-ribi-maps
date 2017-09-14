@@ -35,6 +35,12 @@ Custom Rabi-Ribi maps are listed below.
 
 ![](https://user-images.githubusercontent.com/27341392/29963766-97ab1f86-8f3a-11e7-91ff-0eb0b6d52b8e.png)
 
+## [Bluerock](maps/bluerock/)
+
+* by Scyox
+
+![](https://user-images.githubusercontent.com/27341392/30407139-1389ecc0-9929-11e7-8341-56481ea88a93.jpg)
+
 
 # Contact
 

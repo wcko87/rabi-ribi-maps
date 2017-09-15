@@ -19,7 +19,7 @@ The 1.8e beta version includes special features specifically to support Rabi-Rib
 2. After starting Rabi-Ribi, press F5 or F6 to open up the [custom maps menu](https://user-images.githubusercontent.com/27341392/30108930-ee520480-9336-11e7-9a82-bf40ca1ae89e.png). Select the custom map and start a new game. 
 
 ### Method 2: Replacing maps
-This was the original method before the 1.8e beta started supprting custom maps.
+This was the original method before the 1.8e beta / 1.85 started supprting custom maps.
 1. Replace the maps in `Rabi-Ribi\data\area\` (remember to back up the maps before you do this)
 2. Start up Rabi-Ribi and start a new game normally.
 

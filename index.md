@@ -41,6 +41,12 @@ Custom Rabi-Ribi maps are listed below.
 
 ![](https://user-images.githubusercontent.com/27341392/30407139-1389ecc0-9929-11e7-8341-56481ea88a93.jpg)
 
+## [Erina's Dream](maps/erinas_dream/)
+
+* by Agastya
+
+![](https://user-images.githubusercontent.com/27341392/30551643-afe6f444-9ccd-11e7-8017-9c9a279cdf1b.jpg)
+
 
 # Contact
 

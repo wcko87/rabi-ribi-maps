@@ -7,8 +7,8 @@ download: https://github.com/wcko87/rabi-ribi-maps/files/1281288/rbrbmap_pitfall
 
 Pitfall is a challenging jump puzzle map. It requires knowledge of some basic Rabi-Ribi platforming tricks (explained below). However, more advanced stuff (e.g. amulet climbs) is not required, and so this map should still be (relatively) accessible.
 
-How to play:
-- Replace area0.map in `Rabi-Ribi\data\area`, and start a new game on Speedrun mode, Standard, NORMAL difficulty
+Instructions:
+- Play on Speedrun mode, Standard, NORMAL difficulty
 
 Objective:
 - Obtain Gold Carrot and Congratulations! trophy
@@ -57,6 +57,6 @@ Rules:
 
 #### Ranking:
 
-1. [**Cosmoing - RTA 5m 42s**](https://www.youtube.com/watch?v=3aqMim0N6-8)
-2. [**wcko87 - RTA 5m 50s**](https://www.youtube.com/watch?v=Lblgq3RbQD4)
+1. [**Cosmoing - RTA 5m 37s (-8s)**](https://www.youtube.com/watch?v=aeTYOpZVKSY)
+2. [**wcko87 - RTA 5m 50s (-8s)**](https://www.youtube.com/watch?v=Lblgq3RbQD4)
 

@@ -43,6 +43,12 @@ Custom Rabi-Ribi maps are listed below.
 
 ![](https://user-images.githubusercontent.com/27341392/30551643-afe6f444-9ccd-11e7-8017-9c9a279cdf1b.jpg)
 
+## [I Wanna Be the Bunny](maps/iwannabethebunny/)
+
+* by wcko87
+
+![](https://user-images.githubusercontent.com/27341392/31755628-06b5cb26-b4d2-11e7-8330-fdc2b1a43312.png)
+
 
 # Contact
 

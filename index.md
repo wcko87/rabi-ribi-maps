@@ -4,11 +4,9 @@ If you have a custom map, send it to me and I'll list it here.
 
 Some custom maps also have speedrunning leaderboards. You can also send runs to me or post it on the speedrunning discord (with video) and I'll add it to the leaderboard. Please try to overlay a timer over the video if you do a run.
 
-#### See also: [How to make your own Rabi-Ribi Maps](https://wcko87.github.io/rabiribi-map-editing/)
-
-## How to play Custom Rabi-Ribi Maps
-
-#### Refer to this Guide: [How to play Custom Maps](https://wcko87.github.io/rabiribi-map-editing/runningcustommaps)
+#### See also:
+* [How to play Rabi-Ribi Custom Maps](https://wcko87.github.io/rabiribi-map-editing/runningcustommaps)
+* [How to make your own Rabi-Ribi Maps](https://wcko87.github.io/rabiribi-map-editing/)
 
 # Map List
 

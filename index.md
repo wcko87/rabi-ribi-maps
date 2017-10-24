@@ -6,7 +6,7 @@ Some custom maps also have speedrunning leaderboards. You can also send runs to 
 
 #### See also: [How to make your own Rabi-Ribi Maps](https://wcko87.github.io/rabiribi-map-editing/)
 
-# How to play Custom Rabi-Ribi Maps
+## How to play Custom Rabi-Ribi Maps
 
 #### Refer to this Guide: [How to play Custom Maps](https://wcko87.github.io/rabiribi-map-editing/runningcustommaps)
 

@@ -50,7 +50,7 @@ Custom Rabi-Ribi maps are listed below.
 
 * by Red Shifter
 
-![](https://redshifter.github.io/rabi-maps/The-Legend-of-Bunny/img1.jpg)
+![](https://redshifter.github.io/rabi-maps/The-Legend-of-Bunny/standing_around.jpg)
 
 ---------------------------------
 

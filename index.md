@@ -36,6 +36,12 @@ Custom Rabi-Ribi maps are listed below.
 
 ![](https://user-images.githubusercontent.com/27341392/31755628-06b5cb26-b4d2-11e7-8330-fdc2b1a43312.png)
 
+## [The Legend of Bunny](https://redshifter.github.io/rabi-maps/The-Legend-of-Bunny/)
+
+* by Red Shifter
+
+![](https://redshifter.github.io/rabi-maps/The-Legend-of-Bunny/img1.jpg)
+
 
 # Contact
 

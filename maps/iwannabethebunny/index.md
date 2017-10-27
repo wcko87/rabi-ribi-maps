@@ -55,6 +55,17 @@ Screenshots while keeping spoilers minimal.
 
 ![gif1](https://user-images.githubusercontent.com/27341392/31823649-5e2f1aa2-b5df-11e7-91d9-ac2098033165.gif)
 
+# Videos
+- [Clip by Sairaan](https://www.youtube.com/watch?v=SL7ahcb6q9Q)
+- [Clip by acedaemon](https://www.youtube.com/watch?v=MCgtGiOMkaE)
+- Full playthrough by Cosmoing (SPOILERS!):
+  - [Part 1](https://www.youtube.com/watch?v=G7PjLimapBk)
+  - [Part 2](https://www.youtube.com/watch?v=Uk2MA7PN9w4)
+  - [Part 3](https://www.youtube.com/watch?v=hpBCtS-HJ_I)
+  - [Part 4](https://www.youtube.com/watch?v=wbf4-Gna9CM)
+  - [Part 5](https://www.youtube.com/watch?v=iKGHcSVL_f0)
+
+
 # Leaderboard
 Rules:
 * Obtain the Congratulations! trophy.

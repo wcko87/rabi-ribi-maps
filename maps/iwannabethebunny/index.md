@@ -1,7 +1,7 @@
 ---
 mapname: I Wanna Be the Bunny
 author: wcko87
-download: https://github.com/wcko87/rabi-ribi-maps/files/1402114/iwannabethebunny_v1_00.zip
+download: https://github.com/wcko87/rabi-ribi-maps/files/1520425/iwannabethebunny_v1_01.zip
 ---
 
 # Description
@@ -37,6 +37,12 @@ Currently, only World 1 has been made. I might extend this map with more worlds 
 World 1 is designed to be the "simple" world, where you don't have anything but your ability to reverse walljump and wallkick (simple does not mean easy). The plan is for later worlds to exploit other features of Rabi-Ribi.
 
 Note: The map can be beaten. I have beaten each room individually myself as proof that it can be cleared legit.
+
+### Updates
+
+#### v1.01
+- Fix a skip in the second spectral room. Block off some alternative jumps.
+- Reinforce two rooms to prevent a potential skip.
 
 # Screenshots
 Screenshots while keeping spoilers minimal.

@@ -11,7 +11,7 @@ It contains most of the tricks we use in Rabi-Ribi (rough estimate: around 80+ t
 
 The objective is to collect all the eggs in the map.
 
-### The map starts you off in a room with three doors. These doors correspond to:
+The map starts you off in a room with three doors. These doors correspond to:
 * **Basic Section (1 Star)** - 5 Eggs
 * **Intermediate Section (2 Stars)** - 31 Eggs
 * **Advanced Section (3 Stars)** - 13 Eggs

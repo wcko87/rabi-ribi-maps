@@ -43,7 +43,7 @@ The map starts you off in a room with three doors. These doors correspond to:
 # Leaderboard
 
 ### Speedrun Rules:
-* Obtain all 49 Eggs (v1.00)
+* Obtain all 49 Eggs
 * Casual Difficulty, Standard Mode, Speedrun Mode
 * Timing starts when the game is started (i.e. when you select the mode), timing ends upon picking up the last egg.
 * Open up the map menu after the run to verify that you indeed have all of the eggs.

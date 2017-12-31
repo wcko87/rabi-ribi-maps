@@ -54,6 +54,14 @@ Custom Rabi-Ribi maps are listed below.
 
 ---------------------------------
 
+## [Platforming Tricks Tutorial](maps/platforming_tricks_tutorial)
+
+* by wcko87
+
+![](https://user-images.githubusercontent.com/27341392/34458907-897cea00-ee1e-11e7-89dd-2f1062c5eb10.png)
+
+---------------------------------
+
 # Contact
 
 For any queries, look for me (wcko87) on either [Twitter](https://twitter.com/wcko87), [YouTube](https://www.youtube.com/user/wcko87), [Twitch](https://www.twitch.tv/wcko87) or in the [Rabi-Ribi Speedrunning Discord](https://discord.gg/dDfpNAr).

@@ -7,19 +7,19 @@ download: https://github.com/wcko87/rabi-ribi-maps/files/1595028/platforming_tri
 
 This is a comprehensive tutorial for Rabi-Ribi platforming tricks and glitches.
 
-It contains most of the tricks we use in Rabi-Ribi. (rough estimate: around 80+ tricks are featured in this tutorial) Tricks are classified into Basic, Intermediate and Advanced. The objective is to collect all the eggs in the map.
+It contains most of the tricks we use in Rabi-Ribi (rough estimate: around 80+ tricks are featured in this tutorial). Tricks are classified into Basic, Intermediate and Advanced. NPCs around the map will explain the tricks and how to execute them.
 
-NPCs around the map will explain the tricks and how to execute them.
+The objective is to collect all the eggs in the map.
 
-The map starts you off in a room with three doors. These doors correspond to:
+### The map starts you off in a room with three doors. These doors correspond to:
 * **Basic Section (1 Star)** - 5 Eggs
 * **Intermediate Section (2 Stars)** - 31 Eggs
 * **Advanced Section (3 Stars)** - 13 Eggs
 
-Total: 49 Eggs
+**Total:** 49 Eggs
 
 ### Instructions:
-* Play on Story Mode.
+* Play on **Story Mode**.
   - difficulty / mode does not matter
   - You can play on Speedrun Mode too, but you can't talk to NPCs in Speedrun Mode.
 
@@ -42,13 +42,13 @@ Total: 49 Eggs
 
 # Leaderboard
 
-Rules:
+### Speedrun Rules:
 * Obtain all 49 Eggs (v1.00)
 * Casual Difficulty, Standard Mode, Speedrun Mode
 * Timing starts when the game is started (i.e. when you select the mode), timing ends upon picking up the last egg.
 * Open up the map menu after the run to verify that you indeed have all of the eggs.
 * Time is measured using RTA (Real Time)
 
-#### Ranking:
+### Ranking:
 
 * Empty for now

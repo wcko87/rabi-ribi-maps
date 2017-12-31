@@ -18,7 +18,7 @@ The map starts you off in a room with three doors. These doors correspond to:
 
 Total: 49 Eggs
 
-Instructions:
+### Instructions:
 * Play on Story Mode.
   - difficulty / mode does not matter
   - You can play on Speedrun Mode too, but you can't talk to NPCs in Speedrun Mode.

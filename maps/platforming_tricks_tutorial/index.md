@@ -70,4 +70,5 @@ The map starts you off in a room with three doors. These doors correspond to:
 
 ### Ranking:
 
-* Empty for now
+#### v1.10
+1. [**wcko87 - RTA 24m 02s**](https://www.twitch.tv/videos/214916400)

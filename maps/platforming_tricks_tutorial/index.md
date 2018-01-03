@@ -43,7 +43,7 @@ The map starts you off in a room with three doors. These doors correspond to:
 
 # Videos
 
-<iframe width="800" height="600" style="object-fit:cover" id="ytplayer" type="text/html" src="http://www.youtube.com/embed/T5utNIiCHcs?rel=0&autoplay=0"></iframe>
+<iframe width="800" height="600" style="object-fit:cover" id="ytplayer" type="text/html" src="http://www.youtube.com/embed/T5utNIiCHcs?rel=0&amp;autoplay=0"></iframe>
 
 # Screenshots
 

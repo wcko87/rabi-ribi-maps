@@ -58,7 +58,7 @@ Custom Rabi-Ribi maps are listed below.
 
 * by wcko87
 
-![](https://user-images.githubusercontent.com/27341392/34458907-897cea00-ee1e-11e7-89dd-2f1062c5eb10.png)
+![](https://user-images.githubusercontent.com/27341392/34505768-34f916f2-f062-11e7-87f1-d7d2e00103f1.png)
 
 ---------------------------------
 

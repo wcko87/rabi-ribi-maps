@@ -9,6 +9,8 @@ This is a comprehensive tutorial for Rabi-Ribi platforming tricks and glitches.
 
 It contains most of the tricks we use in Rabi-Ribi (rough estimate: around 80+ tricks are featured in this tutorial). Tricks are classified into Basic, Intermediate and Advanced. NPCs around the map will explain the tricks and how to execute them.
 
+Note: This map contains only platforming tricks. It does not include combat or boss-related tricks.
+
 The objective is to collect all the eggs in the map.
 
 The map starts you off in a room with three doors. These doors correspond to:

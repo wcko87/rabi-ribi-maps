@@ -1,7 +1,7 @@
 ---
 mapname: Platforming Tricks Tutorial
 author: wcko87
-download: https://github.com/wcko87/rabi-ribi-maps/files/1595028/platforming_tricks_tutorial_v1_01.zip
+download: https://github.com/wcko87/rabi-ribi-maps/files/1599113/platforming_tricks_tutorial_v1_10.zip
 ---
 # Description
 
@@ -22,6 +22,22 @@ The map starts you off in a room with three doors. These doors correspond to:
 * Play on **Story Mode**.
   - difficulty / mode does not matter
   - You can play on Speedrun Mode too, but you can't talk to NPCs in Speedrun Mode.
+  
+# Changelog
+
+### v1.10
+- Add more indicators (red tiles, arrows, tile counters, helper rails)
+- Modify 4-tile zip slightly
+- Add hidden slide zip room
+- Fix a number of bugs (e.g. npcs despawning)
+- Fix a number of issues in the text
+- Make some room entrances slightly more visible (so that players are less likely to miss them)
+- Fix a few non-intended methods to do some jumps
+- Make small adjustments to some jumps
+
+### v1.01
+- Minor text fixes
+- Add a 5th indicator tile for the 4-tile slide jump zip
 
 # Videos
 

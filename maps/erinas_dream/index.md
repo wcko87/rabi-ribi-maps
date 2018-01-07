@@ -4,6 +4,8 @@ author: Agastya
 download: https://github.com/wcko87/rabi-ribi-maps/files/1311322/Erinas_Dream.zip
 ---
 
+**NOTE: REQUIRES BUNNY HELL TO BE UNLOCKED TO FUNCTION PROPERLY**
+
 # Description
 Erina has a dream involving some people she knows and some places she's been to.
 

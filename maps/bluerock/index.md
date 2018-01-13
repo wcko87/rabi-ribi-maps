@@ -2,6 +2,9 @@
 mapname: Bluerock
 author: Scyox
 download: https://github.com/wcko87/rabi-ribi-maps/files/1301345/Bluerock.zip
+seo:
+  name: Bluerock
+image: https://user-images.githubusercontent.com/27341392/30551643-afe6f444-9ccd-11e7-8017-9c9a279cdf1b.jpg
 ---
 # Description
 

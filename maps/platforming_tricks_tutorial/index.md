@@ -2,6 +2,9 @@
 mapname: Platforming Tricks Tutorial
 author: wcko87
 download: https://github.com/wcko87/rabi-ribi-maps/files/1599113/platforming_tricks_tutorial_v1_10.zip
+title: Platforming Tricks Tutorial
+description: A comprehensive tutorial featuring around 80+ tricks, classified into Basic, Intermediate and Advanced.
+image: https://user-images.githubusercontent.com/27341392/34505768-34f916f2-f062-11e7-87f1-d7d2e00103f1.png
 ---
 # Description
 

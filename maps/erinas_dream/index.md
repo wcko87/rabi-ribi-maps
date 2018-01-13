@@ -2,6 +2,9 @@
 mapname: Erina's Dream
 author: Agastya
 download: https://github.com/wcko87/rabi-ribi-maps/files/1311322/Erinas_Dream.zip
+title: Erina's Dream
+description: Erina has a dream involving some people she knows and some places she's been to. A somewhat short map utilizing various 1.8e features, such as story editing and adding items.
+image: https://user-images.githubusercontent.com/27341392/30551643-afe6f444-9ccd-11e7-8017-9c9a279cdf1b.jpg
 ---
 
 **NOTE: REQUIRES BUNNY HELL TO BE UNLOCKED TO FUNCTION PROPERLY**

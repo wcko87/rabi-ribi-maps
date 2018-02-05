@@ -75,4 +75,5 @@ The map starts you off in a room with three doors. These doors correspond to:
 ### Ranking:
 
 #### v1.1X
-1. [**wcko87 - RTA 22m 16s**](https://www.youtube.com/watch?v=HXwLkZxfLDw)
+1. [**Nichipe - RTA 21m 36s**](https://www.twitch.tv/videos/225820037)
+2. [**wcko87 - RTA 22m 16s**](https://www.youtube.com/watch?v=HXwLkZxfLDw)

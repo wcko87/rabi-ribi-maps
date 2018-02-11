@@ -46,7 +46,7 @@ Custom Rabi-Ribi maps are listed below.
 
 ---------------------------------
 
-## [The Legend of Bunny](https://redshifter.github.io/rabi-maps/The-Legend-of-Bunny/)
+## [The Legend of Bunny](maps/the_legend_of_bunny)
 
 * by Red Shifter
 

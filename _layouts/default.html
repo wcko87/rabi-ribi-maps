@@ -29,10 +29,18 @@
         <hr>
         <section id="downloads" class="clearfix">
           {% if page.mapname %}
-          <h1>{{ page.mapname }}</h1>
-          <h3>Made by {{ page.author }}</h3>
-          <a href="{{ page.download }}" id="download-map" class="button"><span>Download Map</span></a>
+            <h1>{{ page.mapname }}</h1>
+            <h3>Made by {{ page.author }}</h3>
+            {% if page.download %}
+              <a href="{{ page.download }}" id="download-map" class="button"><span>Download Map</span></a>
+            {% endif %}
+            {% if page.downloads %}
+              {% for item in page.downloads %}
+                <a href="{{ item.url }}" id="download-map" class="button"><span>{{ item.name }}</span></a>
+              {% endfor %}
+            {% endif %}
           {% endif %}
+
           <!--
           {% if site.show_downloads %}
           <a href="{{ site.github.zip_url }}" id="download-zip" class="button"><span>Download .zip</span></a>

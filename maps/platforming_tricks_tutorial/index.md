@@ -35,7 +35,7 @@ The map starts you off in a room with three doors. These doors correspond to:
 # Changelog
 
 ### Korean Translation (v1.10)
-- Korean translation made by [Nichipe](https://twitter.com/MTBNN_UPRPRC), [Riemann](https://www.youtube.com/channel/UCx3cMBqZL-hbE33oCUz9HwQ) and Edgestorm
+- Korean translation made by [Nichipe](https://twitter.com/MTBNN_UPRPRC), [Riemann](https://www.youtube.com/channel/UCx3cMBqZL-hbE33oCUz9HwQ) and [Edgestorm](https://twitter.com/Edgestorm)
 
 ### v1.10
 - Add more indicators (red tiles, arrows, tile counters, helper rails)

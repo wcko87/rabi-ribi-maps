@@ -2,13 +2,13 @@
 mapname: Platforming Tricks Tutorial
 author: wcko87
 downloads:
-- name: Download (English)
+- name: Download - English
   url: https://github.com/wcko87/rabi-ribi-maps/files/1751110/platforming_tricks_tutorial_EN_v1_10.zip
-- name: Download (&#xD55C;&#xAD6D;&#xC5B4;)
+- name: Download - &#xD55C;&#xAD6D;&#xC5B4;
   url: https://github.com/wcko87/rabi-ribi-maps/files/1751111/platforming_tricks_tutorial_KR_v1_10.zip
-- name: Download (&#20013;&#25991;\[&#31616;&#20307;\])
+- name: Download - &#20013;&#25991;(&#31616;&#20307;)
   url: https://github.com/wcko87/rabi-ribi-maps/files/1840753/platforming_tricks_tutorial_SC_v1_10.zip
-- name: Download (&#20013;&#25991;\[&#32321;&#39636;\])
+- name: Download - &#20013;&#25991;(&#32321;&#39636;)
   url: https://github.com/wcko87/rabi-ribi-maps/files/1840754/platforming_tricks_tutorial_TC_v1_10.zip
 title: Platforming Tricks Tutorial
 description: Comprehensive tutorial featuring 80+ tricks, classified into Basic, Intermediate and Advanced.

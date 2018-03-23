@@ -6,6 +6,10 @@ downloads:
   url: https://github.com/wcko87/rabi-ribi-maps/files/1751110/platforming_tricks_tutorial_EN_v1_10.zip
 - name: Download (&#xD55C;&#xAD6D;&#xC5B4;)
   url: https://github.com/wcko87/rabi-ribi-maps/files/1751111/platforming_tricks_tutorial_KR_v1_10.zip
+- name: Download (&#20013;&#25991;\[&#31616;&#20307;\])
+  url: https://github.com/wcko87/rabi-ribi-maps/files/1840753/platforming_tricks_tutorial_SC_v1_10.zip
+- name: Download (&#20013;&#25991;\[&#32321;&#39636;\])
+  url: https://github.com/wcko87/rabi-ribi-maps/files/1840754/platforming_tricks_tutorial_TC_v1_10.zip
 title: Platforming Tricks Tutorial
 description: Comprehensive tutorial featuring 80+ tricks, classified into Basic, Intermediate and Advanced.
 image: https://user-images.githubusercontent.com/27341392/34505768-34f916f2-f062-11e7-87f1-d7d2e00103f1.png
@@ -33,6 +37,9 @@ The map starts you off in a room with three doors. These doors correspond to:
   - You can play on Speedrun Mode too, but you can't talk to NPCs in Speedrun Mode.
   
 # Changelog
+
+### Chinese Translation (v1.10)
+- Chinese translation made by [Phantasma](https://space.bilibili.com/5447176/#/). (also special thanks to craze819, copyliu, INDEXFAN, Marisa for reviewing and comments)
 
 ### Korean Translation (v1.10)
 - Korean translation made by [Nichipe](https://twitter.com/MTBNN_UPRPRC), [Riemann](https://www.youtube.com/channel/UCx3cMBqZL-hbE33oCUz9HwQ) and [Edgestorm](https://twitter.com/Edgestorm)
@@ -84,3 +91,5 @@ The map starts you off in a room with three doors. These doors correspond to:
 #### v1.1X
 1. [**Nichipe - RTA 21m 36s**](https://www.twitch.tv/videos/225820037)
 2. [**wcko87 - RTA 22m 16s**](https://www.youtube.com/watch?v=HXwLkZxfLDw)
+3. [**Phantasma - RTA 24m 32s**](https://www.youtube.com/watch?v=wDFcHIUqPJM)
+

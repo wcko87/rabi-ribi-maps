@@ -84,4 +84,6 @@ Rules:
 * Individual World Speedruns: Timing starts when the game is started (i.e. when you select the mode), timing ends when the screen completely fades to black during the warp out of the world after completing it.
 * Time is measured using RTA (Real Time)
 
-...we probably won't be seeing any speedruns for this.
+### Ranking (Chapter 1):
+1. [**Cosmoing - RTA 51m 41s**](https://youtu.be/BlvW9uIzEiU)
+2. [**Koslyn - RTA 1h 07m 32s**](https://youtu.be/xBMuDy20mPc)

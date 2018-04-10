@@ -62,6 +62,7 @@ Rules:
 
 * Note: For times recorded before custom maps were introduced in v1.8e, 8 seconds is subtracted from the final time to account for the lack of an intro cutscene and the starting location.
 
-1. [**Cosmoing - RTA 5m 16s**](https://www.youtube.com/watch?v=IkDGJOa-iY8)
-2. [**wcko87 - RTA 5m 42s**](https://www.youtube.com/watch?v=Lblgq3RbQD4)
+1. [**Koslyn - RTA 5m 15s**](https://www.youtube.com/watch?v=Me7QGgOz0Sk)
+2. [**Cosmoing - RTA 5m 16s**](https://www.youtube.com/watch?v=IkDGJOa-iY8)
+3. [**wcko87 - RTA 5m 42s**](https://www.youtube.com/watch?v=Lblgq3RbQD4)
 

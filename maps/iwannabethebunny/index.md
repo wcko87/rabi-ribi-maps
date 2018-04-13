@@ -85,5 +85,5 @@ Rules:
 * Time is measured using RTA (Real Time)
 
 ### Ranking (Chapter 1):
-1. [**Cosmoing - RTA 51m 41s**](https://youtu.be/BlvW9uIzEiU)
-2. [**Koslyn - RTA 1h 07m 32s**](https://youtu.be/xBMuDy20mPc)
+1. [**Koslyn - RTA 23m 16s**](https://youtu.be/cl6t878DvU8)
+2. [**Cosmoing - RTA 51m 41s**](https://youtu.be/BlvW9uIzEiU)

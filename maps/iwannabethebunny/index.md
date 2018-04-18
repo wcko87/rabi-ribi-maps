@@ -86,4 +86,4 @@ Rules:
 
 ### Ranking (Chapter 1):
 1. [**Koslyn - RTA 23m 16s**](https://youtu.be/cl6t878DvU8)
-2. [**Cosmoing - RTA 51m 41s**](https://youtu.be/BlvW9uIzEiU)
+2. [**Cosmoing - RTA 33m 10s**](https://youtu.be/mu_9gXdNFIo)

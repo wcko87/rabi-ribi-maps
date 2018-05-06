@@ -53,8 +53,8 @@ Additional notes:
 # Leaderboard
 
 Rules:
+* **NORMAL** Difficulty, **STANDARD** Mode, **SPEEDRUN** Mode
 * Obtain Gold Carrot, then the Congratulations! trophy.
-* Normal Difficulty, Standard Mode, Speedrun Mode
 * Timing starts when the game is started (i.e. when you select the mode), timing ends when the text disappears after collecting the Congratulations! trophy.
 * Time is measured using RTA (Real Time)
 

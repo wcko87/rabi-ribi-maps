@@ -88,4 +88,4 @@ Since there is only one chapter, we consider Chapter 1 speedruns as full game sp
 
 ### Ranking (Chapter 1):
 1. [**Koslyn - RTA 23m 16s**](https://youtu.be/cl6t878DvU8)
-2. [**Cosmoing - RTA 33m 10s**](https://youtu.be/mu_9gXdNFIo)
+2. [**Cosmoing - RTA 28m 57s**](https://youtu.be/QieS4nMjmO4)

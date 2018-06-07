@@ -87,5 +87,5 @@ Rules:
 Since there is only one chapter, we consider Chapter 1 speedruns as full game speedruns. (and thus use full game speedrun timing rules)
 
 ### Ranking (Chapter 1):
-1. [**Koslyn - RTA 23m 16s**](https://youtu.be/cl6t878DvU8)
-2. [**Cosmoing - RTA 28m 57s**](https://youtu.be/QieS4nMjmO4)
+1. [**Cosmoing - RTA 15m 49s**](https://youtu.be/OCM8SoIwXNs)
+2. [**Koslyn - RTA 23m 16s**](https://youtu.be/cl6t878DvU8)

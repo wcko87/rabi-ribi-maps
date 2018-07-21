@@ -62,6 +62,14 @@ Custom Rabi-Ribi maps are listed below.
 
 ---------------------------------
 
+## [Tower of Bunny](maps/tower_of_bunny/)
+
+* by wcko87
+
+![](https://user-images.githubusercontent.com/27341392/43031708-a02f121e-8cd9-11e8-82e4-006b2a93d322.png)
+
+---------------------------------
+
 # Contact
 
 For any queries, look for me (wcko87) on either [Twitter](https://twitter.com/wcko87), [YouTube](https://www.youtube.com/user/wcko87), [Twitch](https://www.twitch.tv/wcko87) or in the [Rabi-Ribi Speedrunning Discord](https://discord.gg/dDfpNAr).

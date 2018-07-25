@@ -16,6 +16,8 @@ image: https://user-images.githubusercontent.com/27341392/34505768-34f916f2-f062
 ---
 # Description
 
+### NOTE: AS OF RABI-RIBI 1.9, YOU NEED TO TURN ON v1.08 HAMMER ROLL IN THE SETTINGS FOR TUNNEL JUMP ZIPS TO WORK. just turn it on and keep it on. it's better that way.
+
 This is a comprehensive tutorial for Rabi-Ribi platforming tricks and glitches.
 
 It contains most of the tricks we use in Rabi-Ribi (rough estimate: around 80+ tricks are featured in this tutorial). Tricks are classified into Basic, Intermediate and Advanced. NPCs around the map will explain the tricks and how to execute them.

@@ -1,7 +1,7 @@
 ---
 mapname: Tower of Bunny
 author: wcko87
-download: https://github.com/wcko87/rabi-ribi-maps/files/2215852/tower_of_bunny_v1_00.zip
+download: https://github.com/wcko87/rabi-ribi-maps/files/2234810/tower_of_bunny_v1_10.zip
 title: Tower of Bunny
 description: A long and very difficult platforming challenge map. Climb to the top of the tower!
 image: https://user-images.githubusercontent.com/27341392/43031708-a02f121e-8cd9-11e8-82e4-006b2a93d322.png
@@ -43,6 +43,18 @@ Note: This map will be quite difficult. The tricks are not only difficult to exe
 - Quickdrop airdash into airjump gives more distance than quickdrop airjump into airdash.
 - If you are playing on keyboard, don't walljump off left walls with both the left+right arrow keys held! This will disable your ability to quickdrop/wallkick until the next time you land on the ground!
 
+### Updates
+
+#### v1.10:
+- Fixed wrong collision in one of the rooms.
+- Removed a couple of alternative jumps (which are usually more difficult than the original jumps, and can be quite misleading)
+- Moved a music trigger slightly so that the music doesn't trigger mid-jump. Music triggers can cause small lag spikes for some players.
+
+#### Current and Older Versions
+- [v1.10 Download](https://github.com/wcko87/rabi-ribi-maps/files/2234810/tower_of_bunny_v1_10.zip)
+- [v1.00 Download](https://github.com/wcko87/rabi-ribi-maps/files/2215852/tower_of_bunny_v1_00.zip)
+
+
 # Screenshots
 ![ss4](https://user-images.githubusercontent.com/27341392/43031709-a05b569e-8cd9-11e8-912d-3ec8663bc475.png)
 
@@ -64,6 +76,7 @@ Rules:
 * Obtain the Congratulations! trophy.
 * Timing starts when the game is started (i.e. when you select the mode), timing ends when the text disappears after collecting the Congratulations! trophy.
 * Time is measured using RTA (Real Time)
+* Use the latest version of the map.
 
 ### Ranking:
 No runs at the moment.

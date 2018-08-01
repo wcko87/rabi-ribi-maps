@@ -80,7 +80,8 @@ Rules:
 
 
 ### Ranking:
-1. [**Floob - RTA 20m 51s**](https://www.youtube.com/watch?v=hWsFma7AKnw)
-2. [**Cosmoing - RTA 21m 45s**](https://www.youtube.com/watch?v=AL3KowPMD4s)
-3. [**wcko87 - RTA 23m 14s**](https://www.youtube.com/watch?v=yw5GnnABKWM)
+1. [**Koslyn - RTA 20m 48s**](https://www.youtube.com/watch?v=zswDzSH4F08)
+2. [**Floob - RTA 20m 51s**](https://www.youtube.com/watch?v=hWsFma7AKnw)
+3. [**Cosmoing - RTA 21m 45s**](https://www.youtube.com/watch?v=AL3KowPMD4s)
+4. [**wcko87 - RTA 23m 14s**](https://www.youtube.com/watch?v=yw5GnnABKWM)
 

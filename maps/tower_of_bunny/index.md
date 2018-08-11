@@ -1,7 +1,7 @@
 ---
 mapname: Tower of Bunny
 author: wcko87
-download: https://github.com/wcko87/rabi-ribi-maps/files/2234810/tower_of_bunny_v1_10.zip
+download: https://github.com/wcko87/rabi-ribi-maps/files/2280302/tower_of_bunny_v1_11.zip
 title: Tower of Bunny
 description: A long and very difficult platforming challenge map. Climb to the top of the tower!
 image: https://user-images.githubusercontent.com/27341392/43031708-a02f121e-8cd9-11e8-82e4-006b2a93d322.png
@@ -40,10 +40,14 @@ Note: This map will be quite difficult. The tricks are not only difficult to exe
 ### Tips
 - Don't rush. Stop and think through the jumps carefully before attempting them. Half the difficulty of this map is in figuring out the jumps.
 - If you can't figure out a jump, try doing it with quickdropping. If you're already quickdropping, try doing the jump without quickdropping.
-- Quickdrop airdash into airjump gives more distance than quickdrop airjump into airdash.
+- Quickdrop airdash -> airjump gives more distance than quickdrop airjump -> airdash. For maximum distance, do quickdrop -> airdash -> wait -> airjump. Don't buffer the airjump.
 - If you are playing on keyboard, don't walljump off left walls with both the left+right arrow keys held! This will disable your ability to quickdrop/wallkick until the next time you land on the ground!
+- When executing a double airdash, brushing over a surface resets your reverse walljump wiggle requirement. Thus, you need to do the wiggle *after* brushing over the surface, not before.
 
 ### Updates
+
+#### v1.11:
+- Fixed two small skips.
 
 #### v1.10:
 - Fixed wrong collision in one of the rooms.
@@ -51,6 +55,7 @@ Note: This map will be quite difficult. The tricks are not only difficult to exe
 - Moved a music trigger slightly so that the music doesn't trigger mid-jump. Music triggers can cause small lag spikes for some players.
 
 #### Current and Older Versions
+- [v1.11 Download](https://github.com/wcko87/rabi-ribi-maps/files/2280302/tower_of_bunny_v1_11.zip)
 - [v1.10 Download](https://github.com/wcko87/rabi-ribi-maps/files/2234810/tower_of_bunny_v1_10.zip)
 - [v1.00 Download](https://github.com/wcko87/rabi-ribi-maps/files/2215852/tower_of_bunny_v1_00.zip)
 

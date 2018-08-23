@@ -70,6 +70,14 @@ Custom Rabi-Ribi maps are listed below.
 
 ---------------------------------
 
+## [Getting Over It with Aruraune](maps/gettingoveritwitharuraune/)
+
+* by looming
+
+![](https://user-images.githubusercontent.com/27341392/44525466-945adc80-a713-11e8-8b9d-06a508eb7730.jpg)
+
+---------------------------------
+
 # Contact
 
 For any queries, look for me (wcko87) on either [Twitter](https://twitter.com/wcko87), [YouTube](https://www.youtube.com/user/wcko87), [Twitch](https://www.twitch.tv/wcko87) or in the [Rabi-Ribi Speedrunning Discord](https://discord.gg/dDfpNAr).

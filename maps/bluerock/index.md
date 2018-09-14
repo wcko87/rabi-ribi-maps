@@ -1,6 +1,7 @@
 ---
 mapname: Bluerock
 author: Scyox
+timestamp: 1505350260
 download: https://github.com/wcko87/rabi-ribi-maps/files/1301345/Bluerock.zip
 title: Bluerock
 description: Bluerock is a short and easy map, and does not require knowledge of Rabi-Ribi platforming tricks to play.

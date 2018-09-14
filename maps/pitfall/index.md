@@ -1,7 +1,7 @@
 ---
 mapname: Pitfall
 author: wcko87
-created: 1504202700
+created: 1504245900
 download: https://github.com/wcko87/rabi-ribi-maps/files/1281288/rbrbmap_pitfall_v1_1.zip
 title: Pitfall
 description: Pitfall is a challenging jump puzzle map. It requires knowledge of some basic Rabi-Ribi platforming tricks.

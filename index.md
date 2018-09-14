@@ -1,3 +1,7 @@
+---
+pagetype: mapindex
+---
+
 # Rabi-Ribi Custom Maps
 
 If you have a custom map, send it to me and I'll list it here.

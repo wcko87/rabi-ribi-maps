@@ -1,6 +1,7 @@
 ---
 mapname: Getting Over It with Aruraune
 author: looming
+created: 1534985160
 download: https://github.com/wcko87/rabi-ribi-maps/files/2314388/getting_over_it_with_aruraune.zip
 title: Getting Over It with Aruraune
 description: You may have no idea about what challenge Aruraune was facing after she became half-plant. Now it is the time to take a look this great inconvenience.

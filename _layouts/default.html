@@ -58,8 +58,9 @@
         </section>
         
         <section id="main_content">
+          {{ content }}
           {% if page.pagetype == 'mapindex' %}
-              {{ page.section_top }}
+              {{ section_top }}
               {% for p in site.pages %}
                   {% if p.path contains 'maps/' and p.path contains '/index.md' %}
                     {% assign pathtokens = p.path | split: '/' %}
@@ -77,9 +78,7 @@
 
                   {% endif %}
               {% endfor %}
-              {{ page.section_bottom }}
-          {% else %}
-              {{ content }}
+              {{ section_bottom }}
           {% endif %}
         </section>
 

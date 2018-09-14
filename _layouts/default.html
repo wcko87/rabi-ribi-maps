@@ -56,23 +56,32 @@
           {% endif %}
           -->
         </section>
+        
         <section id="main_content">
-          {{ content }}
-          
-          <br>
-          Test-2
-          <br>
-
           {% if page.pagetype == 'mapindex' %}
-              Testing<br>
+              {{ section_top }}
               {% for p in site.pages %}
-                  {{page.path}} <br>
-                  {% if p.path contains 'maps/' %}
-                      YES
+                  {{p.path}} <br>
+                  {% if p.path contains 'maps/' and p.path contains '/index.md' %}
+                    {% assign pathtokens = p.path | split: '/' %}
+                    {% assign mapdir = pathtokens[1] %}
+
+<h2 id="{{ mapdir }}"><a href="maps/{{ mapdir }}/">{{ p.mapname }}</a></h2>
+<ul><li>by {{ p.author }}</li></ul>
+
+{% if p.description %}
+<p>{{ p.description }}</p>
+{% endif %}
+<p><img src="{{ p.image }}" alt="" /></p>
+
+<hr />
+
                   {% endif %}
               {% endfor %}
+              {{ section_bottom }}
+          {% else %}
+              {{ content }}
           {% endif %}
-
         </section>
 
         <footer>

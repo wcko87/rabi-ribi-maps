@@ -60,7 +60,6 @@
         <section id="main_content">
           {{ content }}
           {% if page.pagetype == 'mapindex' %}
-              {% capture section_map_list %}
               {% for p in site.pages | sort: 'title' %}
                   {% if p.path contains 'maps/' and p.path contains '/index.md' %}
                     {% assign pathtokens = p.path | split: '/' %}
@@ -78,8 +77,8 @@
 
                   {% endif %}
               {% endfor %}
-              {% endcapture %}
           {% endif %}
+
         </section>
 
         <footer>

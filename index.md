@@ -78,6 +78,14 @@ Custom Rabi-Ribi maps are listed below.
 
 ---------------------------------
 
+## [Rabbit-or-Treat](maps/rabbit-or-treat/)
+
+* by Thiercy and Lollipop
+
+![](https://user-images.githubusercontent.com/27341392/45546657-8864c500-b850-11e8-989a-3b71baeb4571.png)
+
+---------------------------------
+
 # Contact
 
 For any queries, look for me (wcko87) on either [Twitter](https://twitter.com/wcko87), [YouTube](https://www.youtube.com/user/wcko87), [Twitch](https://www.twitch.tv/wcko87) or in the [Rabi-Ribi Speedrunning Discord](https://discord.gg/dDfpNAr).

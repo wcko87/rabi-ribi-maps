@@ -60,7 +60,7 @@
         <section id="main_content">
           {{ content }}
           {% if page.pagetype == 'mapindex' %}
-              {% for p in site.pages | sort: 'title' %}
+              {% for p in site.pages | sort: 'mapname' %}
                   {% if p.path contains 'maps/' and p.path contains '/index.md' %}
                     {% assign pathtokens = p.path | split: '/' %}
                     {% assign mapdir = pathtokens[1] %}

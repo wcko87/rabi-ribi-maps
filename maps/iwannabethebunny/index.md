@@ -1,6 +1,7 @@
 ---
 mapname: I Wanna Be the Bunny
 author: wcko87
+created: 1508537400
 download: https://github.com/wcko87/rabi-ribi-maps/files/1520425/iwannabethebunny_v1_01.zip
 title: I Wanna Be the Bunny
 description: A Rabi-Ribi fangame. An extremely difficult and unfair platforming challenge map.

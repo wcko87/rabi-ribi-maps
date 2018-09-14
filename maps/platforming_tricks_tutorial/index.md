@@ -1,6 +1,7 @@
 ---
 mapname: Platforming Tricks Tutorial
 author: wcko87
+created: 1514717820
 downloads:
 - name: Download - English
   url: https://github.com/wcko87/rabi-ribi-maps/files/1751110/platforming_tricks_tutorial_EN_v1_10.zip

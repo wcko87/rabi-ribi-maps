@@ -58,6 +58,14 @@
         </section>
         <section id="main_content">
           {{ content }}
+          
+          {% if page.pagetype == 'mapindex' %}
+              {% for p in site.pages %}
+                  {% if p.path contains '_layouts/' %}
+                      {page.path}
+                  {% endif %}
+              {% endfor %}
+          {% endif %}
         </section>
 
         <footer>

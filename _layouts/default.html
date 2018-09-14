@@ -58,11 +58,13 @@
         </section>
         <section id="main_content">
           {{ content }}
-          
+
           {% if page.pagetype == 'mapindex' %}
+              Testing<br>
               {% for p in site.pages %}
+                  {page.path} <br>
                   {% if p.path contains '_layouts/' %}
-                      {page.path}
+                      YES
                   {% endif %}
               {% endfor %}
           {% endif %}

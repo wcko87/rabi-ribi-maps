@@ -1,7 +1,7 @@
 ---
 mapname: Erina's Dream
 author: Agastya
-timestamp: 1505794020
+created: 1505794020
 download: https://github.com/wcko87/rabi-ribi-maps/files/1311322/Erinas_Dream.zip
 title: Erina's Dream
 description: Erina has a dream involving some people she knows and some places she's been to. A somewhat short map utilizing various 1.8e features, such as story editing and adding items.

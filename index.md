@@ -1,7 +1,6 @@
 ---
 pagetype: mapindex
 ---
-{% capture section_top %}
 
 # Rabi-Ribi Custom Maps
 
@@ -19,7 +18,7 @@ Custom Rabi-Ribi maps are listed below.
 
 ---------------------------------
 
-{% endcapture %}
+{{ section_map_list }}
 
 ## [Pitfall](maps/pitfall/)
 
@@ -93,9 +92,6 @@ Custom Rabi-Ribi maps are listed below.
 
 ---------------------------------
 
-{% capture section_bottom %}
 # Contact
 
 For any queries, look for me (wcko87) on either [Twitter](https://twitter.com/wcko87), [YouTube](https://www.youtube.com/user/wcko87), [Twitch](https://www.twitch.tv/wcko87) or in the [Rabi-Ribi Speedrunning Discord](https://discord.gg/dDfpNAr).
-
-{% endcapture %}

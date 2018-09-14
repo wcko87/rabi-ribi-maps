@@ -1,6 +1,7 @@
 ---
 mapname: The Legend of Bunny
 author: Red Shifter
+created: 1518364980
 download: https://github.com/wcko87/rabi-ribi-maps/files/1713874/The_Legend_of_Bunny_v1.0.2.zip
 title: The Legend of Bunny
 description: This is a stand-alone Bunnytroidvania adventure where Erina journeys into the computer to save Cicini from her video game addiction.

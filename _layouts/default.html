@@ -60,25 +60,23 @@
         <section id="main_content">
           {{ content }}
           {% if page.pagetype == 'mapindex' %}
-              {% for p in site.pages | sort: 'mapname' %}
+              {% assign sorted_pages = site.pages | sort: 'mapname' %}
+              {% for p in sorted_pages %}
                   {% if p.path contains 'maps/' and p.path contains '/index.md' %}
                     {% assign pathtokens = p.path | split: '/' %}
                     {% assign mapdir = pathtokens[1] %}
 
 <h2 id="{{ mapdir }}"><a href="maps/{{ mapdir }}/">{{ p.mapname }}</a></h2>
 <ul><li>by {{ p.author }}</li></ul>
-
 {% if p.description %}
 <p>{{ p.description }}</p>
 {% endif %}
 <p><img src="{{ p.image }}" alt="" /></p>
-
 <hr />
 
                   {% endif %}
               {% endfor %}
           {% endif %}
-
         </section>
 
         <footer>

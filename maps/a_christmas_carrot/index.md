@@ -8,13 +8,13 @@ downloads:
 - name: Download - French
   url: https://github.com/wcko87/rabi-ribi-maps/files/2636366/A_Christmas_carrot_FR_1.5.zip
 title: A Christmas Carrot
-description: A Christmas Carrot is a story-oriented map freely inspired by Dickens' famous masterpiece "A Christmas Carol". The story takes place on a very particular night: it's Christmas!
+description: A Christmas Carrot is a story-oriented map freely inspired by Dickens' famous masterpiece "A Christmas Carol". The story takes place on a very particular night - it's Christmas!
 image: https://user-images.githubusercontent.com/27341392/49333451-ff149180-f5f9-11e8-99ef-d9014fc08210.png
 ---
 
 # Description
 
-A Christmas Carrot is a story-oriented map freely inspired by Dickens' famous masterpiece "A Christmas Carol". The story takes place on a very particular night: it's Christmas!
+A Christmas Carrot is a story-oriented map freely inspired by Dickens' famous masterpiece "A Christmas Carol". The story takes place on a very particular night - it's Christmas!
 
 Seven years after the stele events and after having the magic barrier that protects the Island being fixed, Erina has mysteriously turned into a very grumpy bunny. She took over Miriam's shop and got very rich and nasty. She even decided to change her name and she is now known as Scrooge. This year again, Scrooge doesn't understand why everybody gets so excited when Christmas comes. She hates Christmas and is determined not to celebrate anything. But she might reconsider her opinion, as some strange unexpected events happen to her...
 

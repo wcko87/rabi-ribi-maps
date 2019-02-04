@@ -4,20 +4,20 @@ author: wcko87
 created: 1514717820
 downloads:
 - name: Download - English
-  url: https://github.com/wcko87/rabi-ribi-maps/files/1751110/platforming_tricks_tutorial_EN_v1_10.zip
+  url: https://github.com/wcko87/rabi-ribi-maps/files/2826239/platforming_tricks_tutorial_EN_v1_20.zip
+- name: Download - &#26085;&#26412;&#35486;
+  url: https://github.com/wcko87/rabi-ribi-maps/files/2826240/platforming_tricks_tutorial_JP_v1_20.zip
 - name: Download - &#xD55C;&#xAD6D;&#xC5B4;
-  url: https://github.com/wcko87/rabi-ribi-maps/files/1751111/platforming_tricks_tutorial_KR_v1_10.zip
+  url: https://github.com/wcko87/rabi-ribi-maps/files/2826236/platforming_tricks_tutorial_KR_v1_20.zip
 - name: Download - &#20013;&#25991;(&#31616;&#20307;)
-  url: https://github.com/wcko87/rabi-ribi-maps/files/1840753/platforming_tricks_tutorial_SC_v1_10.zip
+  url: https://github.com/wcko87/rabi-ribi-maps/files/2826237/platforming_tricks_tutorial_SC_v1_20.zip
 - name: Download - &#20013;&#25991;(&#32321;&#39636;)
-  url: https://github.com/wcko87/rabi-ribi-maps/files/1840754/platforming_tricks_tutorial_TC_v1_10.zip
+  url: https://github.com/wcko87/rabi-ribi-maps/files/2826238/platforming_tricks_tutorial_TC_v1_20.zip
 title: Platforming Tricks Tutorial
 description: Comprehensive tutorial featuring 80+ tricks, classified into Basic, Intermediate and Advanced.
 image: https://user-images.githubusercontent.com/27341392/34505768-34f916f2-f062-11e7-87f1-d7d2e00103f1.png
 ---
 # Description
-
-### NOTE: AS OF RABI-RIBI 1.9, YOU NEED TO TURN ON v1.08 HAMMER ROLL IN THE SETTINGS FOR TUNNEL JUMP ZIPS TO WORK. just turn it on and keep it on. it's better that way.
 
 This is a comprehensive tutorial for Rabi-Ribi platforming tricks and glitches.
 
@@ -41,6 +41,19 @@ The map starts you off in a room with three doors. These doors correspond to:
   
 # Changelog
 
+### Japanese Translation (v1.20)
+- Japanese translation made by [BDTaNaKa](https://twitter.com/oinari20001).
+
+### v1.20
+- Update Giant Zip room to include Bunny Amulet and Air Dash
+- Fix issues in text (especially regarding which tricks require v1.08 Hammer Roll)
+  - (note: as of Rabi-Ribi v1.9, Tunnel Jump Zips require v1.08 Hammer Roll to be turned on)
+- Upgrade hidden slide zip room with more zips. Fix Seana zip.
+- Tweaked Buffered Airdash tutorial to make it harder to do without buffered airdahes.
+- Fix some small issues (room colors in nixie skip room, slide zip to escape room with item)
+- Small adjustments (semisolid in slide jump room, wall jump indicators in whirlbonk area)
+- Chinese and Korean translations are also updated.
+
 ### Chinese Translation (v1.10)
 - Chinese translation made by [Phantasma](https://space.bilibili.com/5447176/#/). (also special thanks to craze819, copyliu, INDEXFAN, Marisa for reviewing and comments)
 
@@ -63,18 +76,19 @@ The map starts you off in a room with three doors. These doors correspond to:
 
 # Videos
 
-### Video Playthrough / Guide:
+### Video Playthrough / Guide (v1.10):
 <iframe id="introvideo" width="400" height="225" style="object-fit:cover" id="ytplayer" type="text/html" src="https://www.youtube.com/embed/T5utNIiCHcs?rel=0&autoplay=0&showinfo=1"></iframe>
 
 # Screenshots
 
-![ss1](https://user-images.githubusercontent.com/27341392/34458902-6e9867d2-ee1e-11e7-98e7-e846bae22d3c.png)
+![v1_20_ss2](https://user-images.githubusercontent.com/27341392/52186041-e7f35980-285f-11e9-90e0-2c0080f5a3b0.png)
 ![ss2](https://user-images.githubusercontent.com/27341392/34458903-726af8c0-ee1e-11e7-84a5-089342465af1.png)
 ![ss3](https://user-images.githubusercontent.com/27341392/34458905-76aa64e8-ee1e-11e7-9dcb-4aa42b1adb64.png)
 ![ss6](https://user-images.githubusercontent.com/27341392/34458906-821e8e94-ee1e-11e7-9159-f8f33fc18b19.png)
 ![ss8b](https://user-images.githubusercontent.com/27341392/34505768-34f916f2-f062-11e7-87f1-d7d2e00103f1.png)
 ![ss11](https://user-images.githubusercontent.com/27341392/34458908-8cbdcfea-ee1e-11e7-845b-927d9d899982.png)
 ![ss12](https://user-images.githubusercontent.com/27341392/34458910-8fea8fbe-ee1e-11e7-8397-ec4f3543dd11.png)
+![jp_ss6](https://user-images.githubusercontent.com/27341392/52186052-00fc0a80-2860-11e9-8058-9ac8f69a57f5.png)
 ![ss14](https://user-images.githubusercontent.com/27341392/34458911-93b76dd8-ee1e-11e7-9398-cf9d8ec02026.png)
 ![ss15](https://user-images.githubusercontent.com/27341392/34458918-c0d3fd18-ee1e-11e7-993b-2e008814217c.png)
 ![ss16](https://user-images.githubusercontent.com/27341392/34458912-95a959bc-ee1e-11e7-9208-85b7a5ed6fe2.png)
@@ -91,7 +105,10 @@ The map starts you off in a room with three doors. These doors correspond to:
 
 ### Ranking:
 
-#### v1.1X
+#### v1.20
+None
+
+#### v1.10
 1. [**Nichipe - RTA 21m 07s**](https://www.youtube.com/watch?v=ztDn640_5fU)
 2. [**wcko87 - RTA 22m 16s**](https://www.youtube.com/watch?v=HXwLkZxfLDw)
 3. [**Phantasma - RTA 24m 32s**](https://www.youtube.com/watch?v=wDFcHIUqPJM)

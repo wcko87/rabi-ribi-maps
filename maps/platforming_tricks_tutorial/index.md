@@ -47,11 +47,11 @@ The map starts you off in a room with three doors. These doors correspond to:
 ### v1.20
 - Update Giant Zip room to include Bunny Amulet and Air Dash
 - Fix issues in text (especially regarding which tricks require v1.08 Hammer Roll)
-  - (note: as of Rabi-Ribi v1.9, Tunnel Jump Zips require v1.08 Hammer Roll to be turned on)
+- (as of Rabi-Ribi v1.9, Tunnel Jump Zips require v1.08 Hammer Roll)
 - Upgrade hidden slide zip room with more zips. Fix Seana zip.
 - Tweaked Buffered Airdash tutorial to make it harder to do without buffered airdahes.
-- Fix some small issues (room colors in nixie skip room, slide zip to escape room with item)
-- Small adjustments (semisolid in slide jump room, wall jump indicators in whirlbonk area)
+- Fix some small bugs (nixie skip room colors, slide zip out of slide bonk room)
+- Small adjustments (semisolid in slide jump room, wall jump indicators)
 - Chinese and Korean translations are also updated.
 
 ### Chinese Translation (v1.10)

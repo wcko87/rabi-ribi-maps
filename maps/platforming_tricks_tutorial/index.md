@@ -1,5 +1,5 @@
 ---
-mapname: Platforming Tricks Tutorial
+mapname: Platforming Tricks Tutorial (v1.20)
 author: wcko87
 created: 1514717820
 downloads:

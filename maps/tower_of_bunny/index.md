@@ -1,9 +1,9 @@
 ---
-mapname: Tower of Bunny
+mapname: Tower of Bunny (v1.11)
 author: wcko87
 created: 1532148840
 download: https://github.com/wcko87/rabi-ribi-maps/files/2280302/tower_of_bunny_v1_11.zip
-title: Tower of Bunny
+title: Tower of Bunny (v1.11)
 description: A long and very difficult platforming challenge map. Climb to the top of the tower!
 image: https://user-images.githubusercontent.com/27341392/43031708-a02f121e-8cd9-11e8-82e4-006b2a93d322.png
 ---

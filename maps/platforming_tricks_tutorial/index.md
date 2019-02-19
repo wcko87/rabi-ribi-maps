@@ -4,15 +4,15 @@ author: wcko87
 created: 1514717820
 downloads:
 - name: Download - English
-  url: https://github.com/wcko87/rabi-ribi-maps/files/2826239/platforming_tricks_tutorial_EN_v1_20.zip
+  url: https://github.com/wcko87/rabi-ribi-maps/files/2879893/platforming_tricks_tutorial_EN_v1_20.zip
 - name: Download - &#26085;&#26412;&#35486;
-  url: https://github.com/wcko87/rabi-ribi-maps/files/2826240/platforming_tricks_tutorial_JP_v1_20.zip
+  url: https://github.com/wcko87/rabi-ribi-maps/files/2879889/platforming_tricks_tutorial_JP_v1_20a.zip
 - name: Download - &#xD55C;&#xAD6D;&#xC5B4;
-  url: https://github.com/wcko87/rabi-ribi-maps/files/2826236/platforming_tricks_tutorial_KR_v1_20.zip
+  url: https://github.com/wcko87/rabi-ribi-maps/files/2879890/platforming_tricks_tutorial_KR_v1_20.zip
 - name: Download - &#20013;&#25991;(&#31616;&#20307;)
-  url: https://github.com/wcko87/rabi-ribi-maps/files/2826237/platforming_tricks_tutorial_SC_v1_20.zip
+  url: https://github.com/wcko87/rabi-ribi-maps/files/2879891/platforming_tricks_tutorial_SC_v1_20.zip
 - name: Download - &#20013;&#25991;(&#32321;&#39636;)
-  url: https://github.com/wcko87/rabi-ribi-maps/files/2826238/platforming_tricks_tutorial_TC_v1_20.zip
+  url: https://github.com/wcko87/rabi-ribi-maps/files/2879892/platforming_tricks_tutorial_TC_v1_20.zip
 title: Platforming Tricks Tutorial
 description: Comprehensive tutorial featuring 80+ tricks, classified into Basic, Intermediate and Advanced.
 image: https://user-images.githubusercontent.com/27341392/34505768-34f916f2-f062-11e7-87f1-d7d2e00103f1.png
@@ -40,6 +40,9 @@ The map starts you off in a room with three doors. These doors correspond to:
   - You can play on Speedrun Mode too, but you can't talk to NPCs in Speedrun Mode.
   
 # Changelog
+
+### Japanese Translation Update (v1.20a)
+- Japanese translation update by BDTaNaKa. Minor corrections to improve readability.
 
 ### Japanese Translation (v1.20)
 - Japanese translation made by [BDTaNaKa](https://twitter.com/oinari20001).

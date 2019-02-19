@@ -2,7 +2,7 @@
 mapname: The Legend of Bunny
 author: Red Shifter
 created: 1518364980
-download: https://github.com/wcko87/rabi-ribi-maps/files/1713874/The_Legend_of_Bunny_v1.0.2.zip
+download: https://github.com/wcko87/rabi-ribi-maps/files/2880349/The_Legend_of_Bunny_v1.3.3.zip
 title: The Legend of Bunny
 description: This is a stand-alone Bunnytroidvania adventure where Erina journeys into the computer to save Cicini from her video game addiction.
 image: https://user-images.githubusercontent.com/27341392/36067770-524ed384-0eff-11e8-88b4-e37697063bc0.jpg
@@ -23,6 +23,7 @@ This is a stand-alone Bunnytroidvania adventure where Erina journeys into the co
 - Bakery
 - ~~Crappy~~ Postgame
 - No DLC required
+- Easter Egg hunt
 
 ## Screenshots
 ![standing_around](https://user-images.githubusercontent.com/27341392/36067770-524ed384-0eff-11e8-88b4-e37697063bc0.jpg)
@@ -34,6 +35,26 @@ This is a stand-alone Bunnytroidvania adventure where Erina journeys into the co
 [Partial Map Screen Preview (spoilers)](https://user-images.githubusercontent.com/27341392/36067769-5224d6ce-0eff-11e8-8102-8df7d8cd5321.jpg)
 
 ## Version History
+[v1.3.3 (2019-02-18)](https://github.com/wcko87/rabi-ribi-maps/files/2880349/The_Legend_of_Bunny_v1.3.3.zip)
+- Fixed the Black Tower for people with lower game quality  
+- Expanded bakery
+- Changed dialogue at developer platform 
+- Corrected collision on a platform somewhere
+
+[v1.3.1 (2019-02-14)](https://github.com/wcko87/rabi-ribi-maps/files/2880363/The_Legend_of_Bunny_v1.3.1.zip)
+- Fixed the hints for the Easter Egg hunt
+
+[v1.3.0 (2019-02-13)](https://github.com/wcko87/rabi-ribi-maps/files/2880365/The_Legend_of_Bunny_v1.3.0.zip)
+- Added 5 Easter Eggs and a few extra items
+- (Re)added Mana/Regen potions to the map
+- Changed a bunch of items to be Lv.3
+- Strange Box no longer detects the ending trophy
+- Gave buffs for the Aruraune and Seana fights
+- Shortened the commander's dialogue
+- Made minor tweaks to each area
+- ~~Added a few secrets and probably a new area or something~~
+- Other stuff...
+
 [v1.0.2 (2018-02-03)](https://github.com/wcko87/rabi-ribi-maps/files/1713874/The_Legend_of_Bunny_v1.0.2.zip)
 - Added new facilities in the ravine ~~for filthy casuals~~ to make the game more fun
 - Added a shortcut to/from the postgame boss

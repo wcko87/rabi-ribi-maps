@@ -13,7 +13,7 @@ downloads:
   url: https://github.com/wcko87/rabi-ribi-maps/files/2879891/platforming_tricks_tutorial_SC_v1_20.zip
 - name: Download - &#20013;&#25991;(&#32321;&#39636;)
   url: https://github.com/wcko87/rabi-ribi-maps/files/2879892/platforming_tricks_tutorial_TC_v1_20.zip
-title: Platforming Tricks Tutorial
+title: Platforming Tricks Tutorial (v1.20)
 description: Comprehensive tutorial featuring 80+ tricks, classified into Basic, Intermediate and Advanced.
 image: https://user-images.githubusercontent.com/27341392/34505768-34f916f2-f062-11e7-87f1-d7d2e00103f1.png
 ---

@@ -149,7 +149,7 @@ Bunmania is a Rabi-Ribi game mode. Bunmania works very well for racing short cus
 --------------------------
 
 ## Pitfall (bunmania edit)
-#### by XXXXX
+#### by wcko87
 ![pitfall](https://user-images.githubusercontent.com/27341392/53293781-ae39c100-3815-11e9-89ba-7bc013787ce0.png)
 
 - Bunmania version of pitfall

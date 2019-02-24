@@ -8,9 +8,7 @@ description: A pack of 16 Bunmania maps made by the community! Race to get the f
 image: https://user-images.githubusercontent.com/27341392/53293782-ae39c100-3815-11e9-839d-03081ae3fcab.jpg
 ---
 
-# Bunmania Map Pack Volume 1
-
-This map pack consists of 16 maps, made by the community.
+This map pack contains **16 maps**, made by the community.
 
 # What is Bunmania?
 

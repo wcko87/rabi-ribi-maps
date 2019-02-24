@@ -1,4 +1,4 @@
-### Bunmania Guide
+# Bunmania Guide
 -------------------------------
 
 # Config
@@ -28,32 +28,32 @@
 
 # How to Start Bunmania (With images!)
 
-#### Step 1
+### Step 1
 Switch to `beta - Netplay BETA v27` under steam betas. 
 
 ![steam_beta](https://user-images.githubusercontent.com/27341392/53293943-8b5cdc00-3818-11e9-834d-489a17ab60e8.png)
 
-#### Step 2
+### Step 2
 Press F5/F6 on Title screen to select a custom map.
 
 ![img1_mapselect](https://user-images.githubusercontent.com/27341392/53293790-cc9fbc80-3815-11e9-8107-fad5ada76680.png)
 
-#### Step 3
+### Step 3
 Start a new game (any mode, any difficulty).
 
 ![img2_startgame](https://user-images.githubusercontent.com/27341392/53293791-cc9fbc80-3815-11e9-8d78-de0261c09ce6.png)
 
-#### Step 4
+### Step 4
 Press F3 in game to open Network Mode menu.
 
 ![img3_networkmode](https://user-images.githubusercontent.com/27341392/53293792-cd385300-3815-11e9-96ef-7ff1fc71c25a.png)
 
-#### Step 5
+### Step 5
 Select HOST, then set MODE to BUNMANIA.
 
 ![img4_selectbunmania](https://user-images.githubusercontent.com/27341392/53293793-cd385300-3815-11e9-8071-7e7d58f8bbb4.png)
 
-#### Step 6
+### Step 6
 Press jump to start.
 
 ![img5_bunmaniastart](https://user-images.githubusercontent.com/27341392/53293794-cd385300-3815-11e9-9794-f392fae2f52b.png)

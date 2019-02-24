@@ -185,8 +185,6 @@ Bunmania is a Rabi-Ribi game mode. Bunmania works very well for racing short cus
 #### by Sanghelios
 ![sora](https://user-images.githubusercontent.com/27341392/53293784-aed25780-3815-11e9-9f67-7b2523193a1f.png)
 
-[MISSING IMAGE]
-
 - A map set in the sky, you hop on clouds and floating platforms/ships. No tech of any kind required, not even hidden tech. Still tricky sometimes though.
 - It's a Bunmania map with an objective; drop from your ship and get to the enemy ship to disable it
 - I originally wanted strong winds to be the challenge in the cloud section, but that's DLC only. So I added cute bunny girls instead, you can never go wrong with cute bunny girls.

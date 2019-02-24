@@ -23,10 +23,10 @@ Bunmania is a Rabi-Ribi game mode. Bunmania works very well for racing short cus
 - The level instantly restarts when you complete it. Or press Menu + Item + Magic Left for instant level restart.
 - There is no item pick up animation. Items are picked up instantly.
 
-<div class="gfyitem" data-id="lightheartedfakedonkey"></div>
+<div class="gfyitem" data-id="lightheartedfakedonkey"/>
 
 # How to play Bunmania mode:
-1. Switch to `beta - Netplay BETA v27` under steam betas. [Image](https://user-images.githubusercontent.com/27341392/53293943-8b5cdc00-3818-11e9-834d-489a17ab60e8.png)
+1. Switch to `beta - Netplay BETA v27` Steam beta. [Image](https://user-images.githubusercontent.com/27341392/53293943-8b5cdc00-3818-11e9-834d-489a17ab60e8.png)
 2. Press F5/F6 on Title screen to select a custom map. [Image](https://user-images.githubusercontent.com/27341392/53293790-cc9fbc80-3815-11e9-8107-fad5ada76680.png)
 3. Start a new game (any mode, any difficulty). [Image](https://user-images.githubusercontent.com/27341392/53293791-cc9fbc80-3815-11e9-8d78-de0261c09ce6.png)
 4. Press F3 in game to open Network Mode menu. [Image](https://user-images.githubusercontent.com/27341392/53293792-cd385300-3815-11e9-96ef-7ff1fc71c25a.png)
@@ -86,7 +86,7 @@ Bunmania is a Rabi-Ribi game mode. Bunmania works very well for racing short cus
 
 # Drag Racing
 ### by wcko87
-<div class="gfyitem" data-id="LimpingNiceBobcat"></div>
+<div class="gfyitem" data-id="LimpingNiceBobcat"/>
 
 - Gif sums it all
 - One long flat surface, just pure speed

@@ -109,7 +109,7 @@ The metadata is encoded into the events layer. Use event ids 5000+ to encode met
 ```
 LINE 1 : Map Name (max 32 char, ASCII only)
 LINE 2 : AUTHOR (max 16 char, ASCII only)
-LINE 3-7 : Par time (bronze - rainbow). Three numbers - minutes, seconds, milliseconds, each 0-59.
+LINE 3-7 : Par time (bronze - rainbow). Three numbers - minutes, seconds, 60ths of a second, each 0-59.
 LINE 8 : Starting Hammer Exp 9999 (5001) Exp 0 (5002)
 LINE 9 : Difficulty 1 - 5 (1 star if empty) 
 LINE 10 : Num of Easter Eggs on map (If you want to tell player there is secret in map), not visible if empty

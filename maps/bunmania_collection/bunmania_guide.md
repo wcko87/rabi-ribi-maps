@@ -66,7 +66,7 @@ Press jump to start.
 
 # Making Bunmania Maps
 
-###[How to Make Rabi-Ribi Custom Maps](https://wcko87.github.io/rabiribi-map-editing/)
+[**How to Make Rabi-Ribi Custom Maps**](https://wcko87.github.io/rabiribi-map-editing/)
 
 ## Bunmania Restrictions
 - Only area0.map may be used.

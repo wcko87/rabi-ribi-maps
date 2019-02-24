@@ -35,12 +35,10 @@ Bunmania is a Rabi-Ribi game mode. Bunmania works very well for racing short cus
 5. HOST -> MODE: BUNMANIA [Image](https://user-images.githubusercontent.com/27341392/53293793-cd385300-3815-11e9-8071-7e7d58f8bbb4.png)
 6. Press jump to start. [Image](https://user-images.githubusercontent.com/27341392/53293794-cd385300-3815-11e9-9794-f392fae2f52b.png)
 
-[**Full Bunmania Guide**](bunmania_guide)
-
 --------------------------
 
-## Attack On Nixie
-#### by Looming
+# Attack On Nixie
+### by Looming
 ![attack_on_nixie](https://user-images.githubusercontent.com/27341392/53293771-abd76700-3815-11e9-8d38-b12253d0a592.jpg)
 
 - Just simply grab items then fight Nixie as fast as possible.
@@ -48,16 +46,16 @@ Bunmania is a Rabi-Ribi game mode. Bunmania works very well for racing short cus
 
 --------------------------
 
-## Bluerock
-#### by Scyox
+# Bluerock
+### by Scyox
 ![bluerock](https://user-images.githubusercontent.com/27341392/53293772-ac6ffd80-3815-11e9-90c2-6f2ac7aa2f85.jpg)
 
 - Bluerock is a short and easy map, and does not require knowledge of Rabi-Ribi platforming tricks to play.
 
 --------------------------
 
-## Bunny Chase (v1.02)
-#### by Red Shifter
+# Bunny Chase (v1.02)
+### by Red Shifter
 ![bunny_chase](https://user-images.githubusercontent.com/27341392/53293773-ac6ffd80-3815-11e9-9a0a-0ff00a96cdc7.jpg)
 
 - Help Erina escape the UPRPRC trap
@@ -66,8 +64,8 @@ Bunmania is a Rabi-Ribi game mode. Bunmania works very well for racing short cus
 
 --------------------------
 
-## Bunny Tunnel
-#### by wcko87
+# Bunny Tunnel
+### by wcko87
 ![bunny_tunnel](https://user-images.githubusercontent.com/27341392/53293774-ac6ffd80-3815-11e9-9a9a-4f9f7a03b694.png)
 
 - A very fast paced map which doesn't stop you when you fail jumps
@@ -77,8 +75,8 @@ Bunmania is a Rabi-Ribi game mode. Bunmania works very well for racing short cus
 
 --------------------------
 
-## Bunny Ruins (v1.02)
-#### by TheOnlyOne
+# Bunny Ruins (v1.02)
+### by TheOnlyOne
 ![bunnyruins](https://user-images.githubusercontent.com/27341392/53293775-ad089400-3815-11e9-8be7-152ed911b409.jpg)
 
 - Erina explores the fabled Bunny Ruins
@@ -86,8 +84,8 @@ Bunmania is a Rabi-Ribi game mode. Bunmania works very well for racing short cus
 
 --------------------------
 
-## Drag Racing
-#### by wcko87
+# Drag Racing
+### by wcko87
 <div class="gfyitem" data-id="LimpingNiceBobcat"/>
 
 - Gif sums it all
@@ -97,8 +95,8 @@ Bunmania is a Rabi-Ribi game mode. Bunmania works very well for racing short cus
 
 --------------------------
 
-## Erina Goes To The Dentist (v1.3)
-#### by Koslyn
+# Erina Goes To The Dentist (v1.3)
+### by Koslyn
 ![dentist](https://user-images.githubusercontent.com/27341392/53293776-ad089400-3815-11e9-9b35-cc9fdbc4442c.png)
 
 - Erina had too many sweets and got a cavity! Go see the dentist then come home for a nice nap.
@@ -107,8 +105,8 @@ Bunmania is a Rabi-Ribi game mode. Bunmania works very well for racing short cus
 
 --------------------------
 
-## Legend DX (v1.00)
-#### by Red Shifter
+# Legend DX (v1.00)
+### by Red Shifter
 ![legend_dx](https://user-images.githubusercontent.com/27341392/53293777-ad089400-3815-11e9-8494-ca8ec5e1a7b9.png)
 
 - Based on "Legend of Bunny", this map contains a variety of environments and areas from it
@@ -117,8 +115,8 @@ Bunmania is a Rabi-Ribi game mode. Bunmania works very well for racing short cus
 
 --------------------------
 
-## Loopy
-#### by Koslyn
+# Loopy
+### by Koslyn
 ![loopy](https://user-images.githubusercontent.com/27341392/53293778-ada12a80-3815-11e9-844c-9c0f40fd5b52.png)
 
 - Erina jumps through the park then visits the same room 3 times before finding the exit
@@ -126,8 +124,8 @@ Bunmania is a Rabi-Ribi game mode. Bunmania works very well for racing short cus
 
 --------------------------
 
-## Magic Powder
-#### by wcko87
+# Magic Powder
+### by wcko87
 ![magic_powder](https://user-images.githubusercontent.com/27341392/53293779-ada12a80-3815-11e9-9b34-1b623f04b806.png)
 
 - Simple 1 minute map involving slide jumps
@@ -137,8 +135,8 @@ Bunmania is a Rabi-Ribi game mode. Bunmania works very well for racing short cus
 
 --------------------------
 
-## Needlemania
-#### by wcko87
+# Needlemania
+### by wcko87
 ![needlemania](https://user-images.githubusercontent.com/27341392/53293780-ada12a80-3815-11e9-9dff-97994b0c423e.png)
 
 - A short needle map (lots of spikes), lots of retrying
@@ -148,8 +146,8 @@ Bunmania is a Rabi-Ribi game mode. Bunmania works very well for racing short cus
 
 --------------------------
 
-## Pitfall (bunmania edit)
-#### by wcko87
+# Pitfall (bunmania edit)
+### by wcko87
 ![pitfall](https://user-images.githubusercontent.com/27341392/53293781-ae39c100-3815-11e9-89ba-7bc013787ce0.png)
 
 - Bunmania version of pitfall
@@ -160,8 +158,8 @@ Bunmania is a Rabi-Ribi game mode. Bunmania works very well for racing short cus
 
 --------------------------
 
-## Rabi-Roll (v1.03)
-#### by Red Shifter
+# Rabi-Roll (v1.03)
+### by Red Shifter
 ![rabiroll](https://user-images.githubusercontent.com/27341392/53293782-ae39c100-3815-11e9-839d-03081ae3fcab.jpg)
 
 - Roll the rabbit really fast
@@ -169,8 +167,8 @@ Bunmania is a Rabi-Ribi game mode. Bunmania works very well for racing short cus
 
 --------------------------
 
-## Secret Spring
-#### by TheOnlyOne
+# Secret Spring
+### by TheOnlyOne
 ![secret_spring](https://user-images.githubusercontent.com/27341392/53293783-ae39c100-3815-11e9-8aab-8461552bb23f.png)
 
 - Erina and her family go on a trip to the Secret Spring.
@@ -181,8 +179,8 @@ Bunmania is a Rabi-Ribi game mode. Bunmania works very well for racing short cus
 
 --------------------------
 
-## Sora
-#### by Sanghelios
+# Sora
+### by Sanghelios
 ![sora](https://user-images.githubusercontent.com/27341392/53293784-aed25780-3815-11e9-9f67-7b2523193a1f.png)
 
 - A map set in the sky, you hop on clouds and floating platforms/ships. No tech of any kind required, not even hidden tech. Still tricky sometimes though.
@@ -191,8 +189,8 @@ Bunmania is a Rabi-Ribi game mode. Bunmania works very well for racing short cus
 
 --------------------------
 
-## ZipZipZip
-#### by wcko87
+# ZipZipZip
+### by wcko87
 ![zipzipzip](https://user-images.githubusercontent.com/27341392/53293785-aed25780-3815-11e9-83e2-185bdfba74c5.png)
 
 - Bunny is like a box of hundo, you never know what zip you're gonna get

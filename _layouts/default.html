@@ -99,5 +99,29 @@
         ga('send', 'pageview');
       </script>
     {% endif %}
+    <script>
+      <!-- CODE TO DISPLAY GFYCAT GIFS. -->
+      $( document ).ready(function() {
+      var url = 'https://api.gfycat.com/v1/gfycats/'
+        $('.gfyitem').each(function(index) {
+          var gifID = $(this).attr('data-id');
+          var itemImg = $(this);
+          $.ajax({
+            url:url+gifID, type:"GET", dataType:"text",
+            success: function( textData ) {
+              var data = JSON.parse(textData);
+              var videoString = '<div id="'+gifID+'"><video style="width:100%;max-width:800px;height:auto;" loop="true" autoplay="true" muted><source src="'
+              +data.gfyItem.mobileUrl+
+              '" type="video/mp4" media="all and (max-width:480px)"><source src="'
+              +data.gfyItem.webmUrl+
+              '" type="video/webm"><source src="'
+              +data.gfyItem.mp4Url+
+              '" type="video/mp4"></video></div>';
+              itemImg.replaceWith(videoString);
+            }
+          });
+        })
+      })
+    </script>
   </body>
 </html>

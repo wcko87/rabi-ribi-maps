@@ -35,6 +35,8 @@ Bunmania is a Rabi-Ribi game mode. Bunmania works very well for racing short cus
 5. HOST -> MODE: BUNMANIA [Image](https://user-images.githubusercontent.com/27341392/53293793-cd385300-3815-11e9-8071-7e7d58f8bbb4.png)
 6. Press jump to start. [Image](https://user-images.githubusercontent.com/27341392/53293794-cd385300-3815-11e9-9794-f392fae2f52b.png)
 
+[**Full Bunmania Guide**](bunmania_guide)
+
 --------------------------
 
 # Attack On Nixie

@@ -1,4 +1,5 @@
-# Bunmania Guide
+### Bunmania Guide
+-------------------------------
 
 # Config
 ![img7_config](https://user-images.githubusercontent.com/27341392/53293796-cdd0e980-3815-11e9-9716-167938b57f6e.png)

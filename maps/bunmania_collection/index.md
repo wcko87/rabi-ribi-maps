@@ -23,7 +23,7 @@ Bunmania is a Rabi-Ribi game mode. Bunmania works very well for racing short cus
 - The level instantly restarts when you complete it. Or press Menu + Item + Magic Left for instant level restart.
 - There is no item pick up animation. Items are picked up instantly.
 
-<div class="gfyitem" data-id="RequiredGracefulCrow"/>
+<div class="gfyitem" data-id="lightheartedfakedonkey"/>
 
 # How to play Bunmania mode:
 1. Switch to `beta - Netplay BETA v27` under steam betas. [Image](https://user-images.githubusercontent.com/27341392/53293943-8b5cdc00-3818-11e9-834d-489a17ab60e8.png)

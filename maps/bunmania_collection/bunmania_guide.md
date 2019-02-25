@@ -96,7 +96,7 @@ Make sure to tick "bunmania" so that your custom properties will be saved.
 
 ![custom_properties_2](https://user-images.githubusercontent.com/27341392/53294041-48036d00-381a-11e9-8b83-f23f0fd3a390.png)
 
-If you have an existing map which does not have the custom properties, you can add them manually in Tiled.
+If you have an existing map in Tiled which does not have abovementioned the custom properties, you can add the above custom properties on your own. Make sure that the name and type of the custom property matches those in the list above.
 
 #### Encoding map metadata manually
 

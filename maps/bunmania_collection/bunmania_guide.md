@@ -83,11 +83,11 @@ In the latest version of the [rbrb-map-coverter](https://ci.appveyor.com/project
 - bunmania (bool): Check to save Bunmania metadata into map.
 - bm_name (string): Map name. Max 32 char, ASCII only.
 - bm_author (string): Author's name. Max 16 char, ASCII only.
-- bm_par1 (float): Par time (bronze), in seconds.
-- bm_par2 (float): Par time (silver), in seconds.
+- bm_par1 (float): Par time (rainbow), in seconds.
+- bm_par2 (float): Par time (platinum), in seconds.
 - bm_par3 (float): Par time (gold), in seconds.
-- bm_par4 (float): Par time (platinum), in seconds.
-- bm_par5 (float): Par time (rainbow), in seconds.
+- bm_par4 (float): Par time (silver), in seconds.
+- bm_par5 (float): Par time (bronze), in seconds.
 - bm_difficulty (int): Difficulty rating (1-5 stars)
 - bm_fullexp (bool): Check to start with full hammer exp.
 - bm_numeggs (int): Number of hidden easer eggs in map.

@@ -91,4 +91,4 @@ Rules:
 2. [**Koslyn - RTA 20m 48s**](https://www.youtube.com/watch?v=zswDzSH4F08)
 3. [**Floob - RTA 20m 51s**](https://www.youtube.com/watch?v=hWsFma7AKnw) (re-timed)
 4. [**wcko87 - RTA 23m 14s**](https://www.youtube.com/watch?v=yw5GnnABKWM)
-
+5. [**BDTaNaKa - RTA 24m 19s**](https://www.youtube.com/watch?v=B4KiNSYsOnQ) (re-timed)

@@ -29,7 +29,7 @@
 # How to Start Bunmania (With images!)
 
 ### Step 1
-In Steam, right click Rabi-Ribi -> Properties -> (GENERAL) SET LAUNCH OPTIONS, then add `-netplay` to the launch options.
+In Steam, right click Rabi-Ribi -> Properties -> (General) Set Launch Options, then add `-netplay` to the launch options.
 
 ![netplay_beta_marked](https://user-images.githubusercontent.com/27341392/55207351-b0c47780-5214-11e9-8fe0-a3f6c214412c.png)
 

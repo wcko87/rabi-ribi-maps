@@ -29,9 +29,9 @@
 # How to Start Bunmania (With images!)
 
 ### Step 1
-In Steam, right click Rabi-Ribi -> Properties -> BETAS -> Switch to `beta - Netplay BETA v27`.
+In Steam, right click Rabi-Ribi -> Properties -> (GENERAL) SET LAUNCH OPTIONS, then add `-netplay` to the launch options.
 
-![steam_beta](https://user-images.githubusercontent.com/27341392/53293943-8b5cdc00-3818-11e9-834d-489a17ab60e8.png)
+![netplay_beta_marked](https://user-images.githubusercontent.com/27341392/55207351-b0c47780-5214-11e9-8fe0-a3f6c214412c.png)
 
 ### Step 2
 Press F5/F6 on Title screen to select a custom map.

@@ -26,7 +26,7 @@ Bunmania is a Rabi-Ribi game mode. Bunmania works very well for racing short cus
 <div class="gfyitem" data-id="lightheartedfakedonkey"></div>
 
 # How to play Bunmania mode:
-1. Switch to `beta - Netplay BETA v27` Steam beta. [Image](https://user-images.githubusercontent.com/27341392/53293943-8b5cdc00-3818-11e9-834d-489a17ab60e8.png)
+1. Add `-netplay` to the Rabi-Ribi Launch Options. [Image](https://user-images.githubusercontent.com/27341392/55207351-b0c47780-5214-11e9-8fe0-a3f6c214412c.png)
 2. Press F5/F6 on Title screen to select a custom map. [Image](https://user-images.githubusercontent.com/27341392/53293790-cc9fbc80-3815-11e9-8107-fad5ada76680.png)
 3. Start a new game (any mode, any difficulty). [Image](https://user-images.githubusercontent.com/27341392/53293791-cc9fbc80-3815-11e9-8d78-de0261c09ce6.png)
 4. Press F3 in game to open Network Mode menu. [Image](https://user-images.githubusercontent.com/27341392/53293792-cd385300-3815-11e9-96ef-7ff1fc71c25a.png)

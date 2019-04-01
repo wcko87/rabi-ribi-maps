@@ -87,8 +87,8 @@ Rules:
 
 ### Ranking:
 
-1. [**BDTaNaKa - RTA 17m 44s**](https://youtu.be/QdX5uUfZNVw)
-2. [**Cosmoing - RTA 18m 18s**](https://youtu.be/oLODVKXp4XA) (re-timed)
+1. [**Cosmoing - RTA 16m 36s**](https://youtu.be/nkrbhW-p29U)
+2. [**BDTaNaKa - RTA 17m 44s**](https://youtu.be/QdX5uUfZNVw)
 3. [**Koslyn - RTA 20m 48s**](https://www.youtube.com/watch?v=zswDzSH4F08)
 4. [**Floob - RTA 20m 51s**](https://www.youtube.com/watch?v=hWsFma7AKnw) (re-timed)
 5. [**wcko87 - RTA 23m 14s**](https://www.youtube.com/watch?v=yw5GnnABKWM)

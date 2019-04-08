@@ -2,7 +2,7 @@
 mapname: I Wanna Be the Bunny
 author: wcko87
 created: 1508537400
-download: https://github.com/wcko87/rabi-ribi-maps/files/1520425/iwannabethebunny_v1_01.zip
+download: https://github.com/wcko87/rabi-ribi-maps/files/3053218/iwannabethebunny_v1_02.zip
 title: I Wanna Be the Bunny
 description: A Rabi-Ribi fangame. An extremely difficult and unfair platforming challenge map.
 image: https://user-images.githubusercontent.com/27341392/31755628-06b5cb26-b4d2-11e7-8330-fdc2b1a43312.png
@@ -43,6 +43,10 @@ World 1 is designed to be the "simple" world, where you don't have anything but 
 Note: The map can be beaten. I have beaten each room individually myself as proof that it can be cleared legit.
 
 ### Updates
+
+#### v1.02
+- Switch an event ID in the final room, so the "Is the Order a DLC" DLC is no longer required.
+- No change to gameplay.
 
 #### v1.01
 - Fix a skip in the second spectral room. Block off some alternative jumps.

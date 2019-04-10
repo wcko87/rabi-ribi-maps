@@ -96,12 +96,11 @@ Rules:
 ----------------------------
 
 ### WR History:
-- [**wcko87 - RTA 23m 14s**](https://www.youtube.com/watch?v=yw5GnnABKWM)
-- [**Cosmoing - RTA 21m 45s**](https://www.youtube.com/watch?v=AL3KowPMD4s)
-- [**Floob - RTA 20m 51s**](https://www.youtube.com/watch?v=hWsFma7AKnw)
-- [**Koslyn - RTA 20m 48s**](https://www.youtube.com/watch?v=zswDzSH4F08)
-- [**Cosmoing - RTA 18m 18s**](https://youtu.be/oLODVKXp4XA) (re-timed)
-- [**BDTaNaKa - RTA 17m 44s**](https://youtu.be/QdX5uUfZNVw)
-- [**Cosmoing - RTA 16m 36s**](https://youtu.be/nkrbhW-p29U)
-- [**BDTaNaKa - RTA 16m 02s**](https://youtu.be/SepNIgRphjM)
-
+- [**23m 14s - wcko87**](https://www.youtube.com/watch?v=yw5GnnABKWM)
+- [**21m 45s - Cosmoing**](https://www.youtube.com/watch?v=AL3KowPMD4s)
+- [**20m 51s - Floob**](https://www.youtube.com/watch?v=hWsFma7AKnw)
+- [**20m 48s - Koslyn**](https://www.youtube.com/watch?v=zswDzSH4F08)
+- [**18m 18s - Cosmoing**](https://youtu.be/oLODVKXp4XA) (re-timed)
+- [**17m 44s - BDTaNaKa**](https://youtu.be/QdX5uUfZNVw)
+- [**16m 36s - Cosmoing**](https://youtu.be/nkrbhW-p29U)
+- [**16m 02s - BDTaNaKa**](https://youtu.be/SepNIgRphjM)

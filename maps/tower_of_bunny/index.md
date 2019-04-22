@@ -89,7 +89,7 @@ Rules:
 
 1. [**BDTaNaKa - RTA 15m 42s**](https://youtu.be/gYgMFEb8oZU)
 2. [**Cosmoing - RTA 16m 36s**](https://youtu.be/nkrbhW-p29U)
-3. [**Koslyn - RTA 17m 58s**](https://youtu.be/9lI10StZ3Xs)
+3. [**Koslyn - RTA 17m 19s**](https://youtu.be/BRNElHT3nUc)
 4. [**Floob - RTA 20m 51s**](https://www.youtube.com/watch?v=hWsFma7AKnw) (re-timed)
 5. [**wcko87 - RTA 23m 14s**](https://www.youtube.com/watch?v=yw5GnnABKWM)
 

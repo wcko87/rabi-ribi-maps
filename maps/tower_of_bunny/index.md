@@ -87,7 +87,7 @@ Rules:
 
 ### Current Ranking:
 
-1. [**BDTaNaKa - RTA 15m 42s**](https://youtu.be/gYgMFEb8oZU)
+1. [**BDTaNaKa - RTA 14m 16s**](https://youtu.be/AJA7HN1zO98)
 2. [**Cosmoing - RTA 16m 36s**](https://youtu.be/nkrbhW-p29U)
 3. [**Koslyn - RTA 17m 19s**](https://youtu.be/BRNElHT3nUc)
 4. [**Floob - RTA 20m 51s**](https://www.youtube.com/watch?v=hWsFma7AKnw) (re-timed)
@@ -105,3 +105,4 @@ Rules:
 - [**16m 36s - Cosmoing**](https://youtu.be/nkrbhW-p29U)
 - [**16m 02s - BDTaNaKa**](https://youtu.be/SepNIgRphjM)
 - [**15m 42s - BDTaNaKa**](https://youtu.be/gYgMFEb8oZU)
+- [**14m 16s - BDTaNaKa**](https://youtu.be/AJA7HN1zO98)

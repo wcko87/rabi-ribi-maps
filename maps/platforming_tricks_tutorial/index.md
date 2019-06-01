@@ -111,10 +111,10 @@ The map starts you off in a room with three doors. These doors correspond to:
 
 ### Ranking:
 
-#### v1.20
-None
+#### v1.2x
+1. [**BDTaNaKa - RTA 20m 05s**](https://youtu.be/QTZ1ZztYZi8)
 
-#### v1.10
+#### v1.1x
 1. [**Nichipe - RTA 21m 07s**](https://www.youtube.com/watch?v=ztDn640_5fU)
 2. [**wcko87 - RTA 22m 16s**](https://www.youtube.com/watch?v=HXwLkZxfLDw)
 3. [**Phantasma - RTA 24m 32s**](https://www.youtube.com/watch?v=wDFcHIUqPJM)

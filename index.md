@@ -4,7 +4,7 @@ pagetype: mapindex
 
 # Rabi-Ribi Custom Maps
 
-#### Update: The Rabi-Ribi Steam workshop has been set up. We recommend going to the steam workshop to get the latest versions of the maps. Speedrun leaderboards will continue to be maintained on this website.
+### **UPDATE:** The Rabi-Ribi Steam workshop has been set up. We recommend going to the steam workshop to get the latest versions of the maps. Speedrun leaderboards will continue to be maintained on this website.
 - [**Rabi-Ribi Steam Workshop - Standard Maps**](https://steamcommunity.com/workshop/browse/?appid=400910&requiredtags[]=Map+-+Standard)
 - [**Rabi-Ribi Steam Workshop - Bun Race Maps**](https://steamcommunity.com/workshop/browse/?appid=400910&requiredtags[]=Map+-+Bun+Race)
 
